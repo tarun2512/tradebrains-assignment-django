@@ -30,7 +30,7 @@ A secure, scalable backend service for managing user watchlists of stocks. Built
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/traders-portal.git](https://github.com/tarun2512/tradebrains-assignment-django.git)
+git clone https://github.com/tarun2512/tradebrains-assignment-django.git
 cd traders-portal
 
 # Database Settings
